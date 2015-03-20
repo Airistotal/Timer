@@ -1,0 +1,1 @@
+START javaw -cp vbin application/Main
